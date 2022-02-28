@@ -1,0 +1,584 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pædo-baptisme: or, the baptizing of infants justified: by the judgement and practice of ancient and moderne Protestant divines, both foraine, and of this nation: clearly proving the absolute necessity of baptizing infants, from the authority of sacred scripture and the force of undeniable reason. Together with an excellent letter of Mr. John Philpots to the same purpose. / Collected by Robert Ram, minister of Spalding in Lincolnshire. Published by authority.</title>
+            <author>Ram, Robert, d. 1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91973</idno>
+            <idno type="STC">Wing R194</idno>
+            <idno type="STC">Thomason E276_12</idno>
+            <idno type="STC">ESTC R209870</idno>
+            <idno type="EEBO-CITATION">99868721</idno>
+            <idno type="PROQUEST">99868721</idno>
+            <idno type="VID">121076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121076)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E276[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pædo-baptisme: or, the baptizing of infants justified: by the judgement and practice of ancient and moderne Protestant divines, both foraine, and of this nation: clearly proving the absolute necessity of baptizing infants, from the authority of sacred scripture and the force of undeniable reason. Together with an excellent letter of Mr. John Philpots to the same purpose. / Collected by Robert Ram, minister of Spalding in Lincolnshire. Published by authority.</title>
+                  <author>Ram, Robert, d. 1657.</author>
+                  <author>Philpot, John, 1516-1555.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright in the Old-baily.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes: Philpot, John.  A letter of Mr. Philpot to a friend of his prisoner.</note>
+                  <note>Annotation on Thomason copy: "Aprill 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121076:1"/>
+            <pb facs="tcp:121076:1" rendition="simple:additions"/>
+            <p>PAEDO-BAPTISME: OR, The Baptizing of Infants JUSTIFIED: By the judgement and practice of Ancient and Moderne Proteſtant Divines, both Foraine, and of this Nation: clearly proving the abſolute neceſſity of baptizing Infants, from the authority of ſacred Scripture and the force of undeniable reaſon.</p>
+            <p>Together with an excellent Letter of Mr. JOHN PHILPOTS to the ſame purpoſe.</p>
+            <p>Collected by ROBERT RAM, Miniſter of <hi>Spalding</hi> in <hi>Lincolnſhire.</hi>
+            </p>
+            <q>
+               <bibl>PROVERBS 11.14.</bibl>
+               <p>In the multitude of Counſellors there is ſafety.</p>
+            </q>
+            <q>
+               <bibl>Aug. ad Hil. Epiſt. 89.</bibl>
+               <p>
+                  <hi>Tanto magis pro infantibus loqui debemus, quanto minus ipſi pro ſe loqui poſſunt.</hi>
+               </p>
+            </q>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Publiſhed by Authority.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, 1645.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:121076:2"/>
+            <pb facs="tcp:121076:2"/>
+            <head>To my honoured Colonell, Colonell <hi>Edward Roſsiter.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to my promiſe I have tranſcribed Maſter <hi>Philpots</hi> Letter for baptizing infants; to which I have added the univerſall, and continued pra<g ref="char:EOLhyphen"/>ctice of the Church of God, from the Apoſtles time hitherto; together with the judgement of the moſt learned, orthodox, and godly Divines, both ancient and mo<g ref="char:EOLhyphen"/>derne: which may ſerve as a cloud of witneſſes to prove, that infants of Chriſtians, not onely may, but ought to be baptized. I am confident, that theſe collections (with the bleſſing of God) will give full ſatisfaction to any that are not fore-ſtalled with wilfulneſſe in their owne opinion. For if Venerable Antiquity, <g ref="char:V">Ʋ</g>niverſall Practice, un-interrupted Cuſtome, Harmony of Churches, ſtrength of Argument, and the Authority of ſacred Scripture be of any force, then doubtleſſe we have ſufficient war<g ref="char:EOLhyphen"/>rant for admitting the children of believing parents to this Or<g ref="char:EOLhyphen"/>dinance of baptiſme. The teſtimonies I have here produced, lie ſcattered up and downe in ſeverall Authors, I ſum them up toge<g ref="char:EOLhyphen"/>ther in this little Treatiſe; which I ſtrove to make little, becauſe, little bookes do moſt good, or moſt harme, being every mans pur<g ref="char:EOLhyphen"/>chaſe, and ſoon read over. My Apologie for troubling you with a buſineſſe of this nature, is onely this, that I am</p>
+            <closer>
+               <signed>Your humble ſervant in the Lord, ROBERT RAM.</signed>
+            </closer>
+         </div>
+         <div type="list">
+            <pb facs="tcp:121076:3"/>
+            <head>The names of the Authors here cited, for the baptizing of Chriſtian infants.</head>
+            <list>
+               <head>Fathers.</head>
+               <item>1. <hi>CYprian.</hi>
+               </item>
+               <item>2. <hi>Origen.</hi>
+               </item>
+               <item>3. <hi>Auguſtin.</hi>
+               </item>
+               <item>4. <hi>Athanaſius.</hi>
+               </item>
+               <item>5. <hi>Gregory Naz.</hi>
+               </item>
+               <item>6. <hi>Bernard.</hi>
+               </item>
+               <item>7. <hi>Hierom.</hi>
+               </item>
+               <item>8. <hi>Chryſoſtome.</hi>
+               </item>
+               <item>9. <hi>Iſidorus Hiſp.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Divines of Magdeb. for 1300 yeeres. Foraine Divines.</head>
+               <item>1. <hi>Mercer.</hi>
+               </item>
+               <item>2. <hi>Calvin.</hi>
+               </item>
+               <item>3. <hi>Sadeel.</hi>
+               </item>
+               <item>4. <hi>Junius.</hi>
+               </item>
+               <item>5. <hi>Voſſius.</hi>
+               </item>
+               <item>6. <hi>Polanus.</hi>
+               </item>
+               <item>7. <hi>Aretius.</hi>
+               </item>
+               <item>8. <hi>Brentius.</hi>
+               </item>
+               <item>9. <hi>Pareus.</hi>
+               </item>
+               <item>10. <hi>Spanhemius.</hi>
+               </item>
+               <item>11. <hi>Lavater.</hi>
+               </item>
+               <item>12. <hi>Gualter.</hi>
+               </item>
+               <item>13. <hi>Muſculus.</hi>
+               </item>
+               <item>14. <hi>Chemnitius.</hi>
+               </item>
+               <item>15. <hi>Marlorat.</hi>
+               </item>
+               <item>16. <hi>Beza.</hi>
+               </item>
+               <item>17. <hi>Hemingius.</hi>
+               </item>
+               <item>18. <hi>Zanche.</hi>
+               </item>
+               <item>19. <hi>Daneus.</hi>
+               </item>
+               <item>20. <hi>P. Martyr.</hi>
+               </item>
+               <item>21. <hi>Bucer.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Engliſh Divines.</head>
+               <item>1. Dr. <hi>Ames.</hi>
+               </item>
+               <item>2. Dr. <hi>Davenant.</hi>
+               </item>
+               <item>3. Mr. <hi>Th. Rogers.</hi>
+               </item>
+               <item>4. Mr. <hi>Hooker.</hi>
+               </item>
+               <item>5. M. <hi>Perkins.</hi>
+               </item>
+               <item>6. Mr. <hi>Ainſworth.</hi>
+               </item>
+               <item>7. Dr. <hi>Willet.</hi>
+               </item>
+               <item>8. Mr. <hi>Hilderſham.</hi>
+               </item>
+               <item>9. Dr. <hi>Fulke.</hi>
+               </item>
+               <item>10. Mr. <hi>Hieron.</hi>
+               </item>
+               <item>11. Dr. <hi>Whitaker.</hi>
+               </item>
+               <item>12. Dr. <hi>Jewell.</hi>
+               </item>
+               <item>13. Dr. <hi>Mayer.</hi>
+               </item>
+               <item>14. Mr. <hi>Wynel.</hi>
+               </item>
+               <item>14. Dr. <hi>Featley.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Confeſſions of reformed Churches.</head>
+               <item>1. <hi>Helvetian.</hi>
+               </item>
+               <item>2. <hi>Belgick.</hi>
+               </item>
+               <item>3. <hi>French.</hi>
+               </item>
+               <item>4. <hi>Auguſtane.</hi>
+               </item>
+               <item>5. <hi>Saxon.</hi>
+               </item>
+               <item>6. <hi>Palatine.</hi>
+               </item>
+               <item>7 <hi>Harmony, &amp;c.</hi>
+               </item>
+            </list>
+            <p>Mr. <hi>Philpots</hi> Letter.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:121076:3"/>
+            <head>THE JUDGEMENT OF the ancient Fathers in this point of baptizing Infants.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Spirit refuſeth not to communicate himſelfe even to infants; and the holy Scriptures declare,<note place="margin">Cyprian.</note> That divine grace is diſpenſed to all, aſwell in<g ref="char:EOLhyphen"/>fants as others; which was ſhadowed out in <hi>E<g ref="char:EOLhyphen"/>liſhnes</hi> ſtretching himſelfe upon the infant, inſen<g ref="char:EOLhyphen"/>ſible of the good which the Prophet did unto him. <hi>Cyprian Epiſt. ad Fidum.</hi>
+            </p>
+            <p>Becauſe by baptiſme originall ſinne is done away,<note place="margin">Origen.</note> therefore chil<g ref="char:EOLhyphen"/>dren are baptized, <hi>Origen. Hom.</hi> on Luke 14.</p>
+            <p>We ſay that in infants baptized,<note place="margin">Auguſtin:</note> although they be not aware of it, the Holy Ghoſt doth dwell, <hi>Auguſt. Epiſt. ad Bonifacium,</hi> of bap<g ref="char:EOLhyphen"/>tizing infants.</p>
+            <p>Whence may a man know plainly that he hath been baptized,<note place="margin">Athanaſius.</note> and received the ſpirit of baptiſme, ſeeing he was but an infant when he was baptized? <hi>Athan.</hi> in his booke of queſtions, queſt. 2.</p>
+            <p>Baptiſme hath force even upon infants,<note place="margin">Gregory Nazianzen.</note> and therefore it is neceſ<g ref="char:EOLhyphen"/>ſary that they be baptized: For it is better that they be ſanctified without any apprehenſion of the thing done, then that they ſhould depart this life without baptiſme and initiation: And if this thing Circumciſion may afford us any preſident (for that being the fore<g ref="char:EOLhyphen"/>runner of baptiſme) that was adminiſtred to ſuch as could not by the uſe of reaſon diſcern what it meant: <hi>Nazianzen</hi> in his Oration of baptizing infants.</p>
+            <p>He who denies baptiſme to infants of Chriſtian parents,<note place="margin">Bernard.</note> doth de<g ref="char:EOLhyphen"/>clare a diabolicall envy, even ſuch an envy as brought death into the
+<pb n="2" facs="tcp:121076:4"/>
+world; this man is not of God, who doth and ſpeakes ſo contrary to God: <hi>Bern. Epist.</hi> 240.</p>
+            <p>
+               <note place="margin">Hieronymus.</note>We hold that there is one baptiſme, and that this Sacrament is to be adminiſtred to infants, in the ſame words, that it is adminiſtred to them of elder yeeres: <hi>Hieron. Symboli explanatio ad Damaſum.</hi>
+            </p>
+            <p>
+               <note place="margin">Chryſoſtom.</note>Therefore the Catholique Church teacheth, that infants ought to be baptized becauſe of originall ſin. And the uniforme practice of the holy Church, throughout the univerſall world, concerning baptiſme, whether of infants or of young men, ſhould not be ac<g ref="char:EOLhyphen"/>counted as an idle thing: <hi>Chryſ. Homil. de Adam &amp; Heva.</hi>
+            </p>
+            <p>
+               <note place="margin">Iſidorus.</note>In ſuch as are of yeeres, baptiſme ſerves either to clenſe them from originall ſin, or to waſh them from the guilt of actuall ſinne: but infants are onely freed from originall ſin by it: <hi>Iſid. Hispalenſis de officiis Eccleſ. l.</hi> 2.</p>
+            <div type="part">
+               <head>The continued practice of the Church for bap<g ref="char:EOLhyphen"/>tizing infants for 1300 yeeres together, from the Apoſtles times, collected out of the Centuries</head>
+               <byline>Written by the Divines of Magdeburgh.</byline>
+               <p>
+                  <note place="margin">Cent. 1. lib. 1. cap. 4.</note>ALthough the Apoſtles, before they were rightly informed, did forbid children to be brought to Chriſt, yet were they reproved for it; and did without queſtion, afterwards bap<g ref="char:EOLhyphen"/>tize infants themſelves, being better inſtructed by the Spirit of God, as <hi>Origen, Cyprian,</hi> and others doe teſtifie; and that the cuſtome of baptizing infants, was from the Apoſtles continued to poſterity.</p>
+               <p>
+                  <note place="margin">Cent. 2. cap. 4. Cent. 3. cap. 6.</note>We read no where in this age that infants were denied baptiſme.</p>
+               <p>In this age both men and women, infants and thoſe of elder yeeres were baptized, according to the tradition received from the Apoſtles.</p>
+               <p>
+                  <note place="margin">Cent. 4. cap. 6.</note>In the ſame Churches and waters all ſorts of people of whatſo<g ref="char:EOLhyphen"/>ever ſex, age, or condition, were publickly baptized. The Churches of Africa baptized infants in this age. <hi>Nazianzen</hi> ſpeaking of the Aſian Churches, ſaith, That they uſed to baptize infants, if they were in any eminent danger; otherwiſe baptiſme was deferred till they were about three yeres old; nevertheleſſe he ſaith that baptiſme is ſuta<g ref="char:EOLhyphen"/>ble to any age. <hi>Nazian. Orat.</hi> 3. of Bapt.</p>
+               <p>
+                  <pb n="3" facs="tcp:121076:4"/>That Infants ſhould be Baptized,<note place="margin">Cent. 5. cap. 4.</note> 
+                  <hi>Chryſoſtome</hi> affirmeth in his Homily of <hi>Adam</hi> and <hi>Eve. Auguſtin</hi> ſaith: That the Baptizing of Infants came not into the Church by the conſtitutions of any Coun<g ref="char:EOLhyphen"/>cells, but hath been alwayes retained by the Church; and ought to be beleeved as an Apoſtolicall Tradition: <hi>Contra Donatiſtas. lib.</hi> 4.</p>
+               <p>Infants are Baptized,<note place="margin">Cent. 6. cap. 4.</note> not only that they might attain the Adopti<g ref="char:EOLhyphen"/>on of Sons, or the Kingdom of heaven, but that they may have re<g ref="char:EOLhyphen"/>miſſion of ſins, leſt they periſh eternally. <hi>Maxentius</hi> in his confeſ<g ref="char:EOLhyphen"/>ſion of Faith.</p>
+               <p>We Baptize Infants, although they are not yet capable of Reaſon;<note place="margin">Cent. 7. cap. 6.</note> And by no meanes let Baptiſme be denied to a ſick Infant; If any ſhall neglect it, God will require the blood of that childe, dying un<g ref="char:EOLhyphen"/>baptized, at his hands: <hi>Councel</hi> of <hi>Toledo.</hi> 8. <hi>cap.</hi> 7.</p>
+               <p>By the Obedience of Faith, all ought to be Baptized:<note place="margin">Cent. 8. cap. 4.</note> 
+                  <hi>Beda</hi> on <hi>Ioh.</hi> 1. By the grace of Faith, children being borne againe, by the water of Regeneration, are admitted to the Celeſtiall Joys. <hi>Beda</hi> on <hi>Cant.</hi> 4.</p>
+               <p>Why doth not the ſaying of the Lord,<note place="margin">Cent. 9. cap. 4.</note> ſpoken to the Univerſall Church, by the Prophet <hi>Iſaiah;</hi> I will bring thy ſeed from the Eaſt, &amp;c. deter thee from thy perverſe opinion? How haſt thou for<g ref="char:EOLhyphen"/>gotten that in the Goſpel, which ſaith, that Chriſt rebuked his Di<g ref="char:EOLhyphen"/>ſciples, for forbidding little Children to be brought unto him? Doſt thou not fear to doe that which no Chriſtian ever durſt doe? For concerning Infants Baptizing (though they know not the mean<g ref="char:EOLhyphen"/>ing of it) Saint <hi>Siricius</hi> tells us that it was the generall rule and practiſe of the Church: <hi>Hincmarus Rhemenſis, ad Hincmarum Lau<g ref="char:EOLhyphen"/>danenſem.</hi>
+               </p>
+               <p>Children ought to be Baptized; for by this Ordinance,<note place="margin">Cent. 10. cap. 4</note> our chaſt Mother the Church, brings forth holy, pure, and innocent children: <hi>Smaragdus</hi> in <hi>Epiſt. Petri.</hi>
+               </p>
+               <p>Neither did they Baptize thoſe only that were of yeers,<note place="margin">Cent. 11. cap. 6</note> but In<g ref="char:EOLhyphen"/>fants alſo; yea young and weak Infants: The ſonne of the Empreſſe was Baptized the third day after he was borne, becauſe hee was ſick, and like to die: <hi>Schafnaburgenſis.</hi>
+               </p>
+               <p>As well Infants as others were Baptized in this Age;<note place="margin">Cent. 12. cap. 6.</note> for <hi>Elianor</hi> and <hi>John,</hi> the children of <hi>Elianor</hi> Queen of England, were Baptized preſently after they were borne: <hi>Sigebert.</hi> And <hi>Lewis</hi> the French King, cauſed his Sonne <hi>Philip</hi> to be Baptized an Infant.</p>
+               <p>Baptizing of Infants was practiſed alſo in this Age;<note place="margin">Cent. 13. cap. 6</note> for <hi>Hugo</hi>
+                  <pb n="4" facs="tcp:121076:5"/>
+ſaith; That the Church prayeth for Infants to be Baptized, not that it doubts of their Salvation, but to teach that children are not ſaved by their owne merits or nature, but only by grace: <hi>Hugo</hi> on <hi>Pſal.</hi> 27.</p>
+            </div>
+            <div type="part">
+               <head>The Judgement of Modern Proteſtant <hi>Divines</hi> of Foraine parts, touching <hi>Infants Baptiſme.</hi>
+               </head>
+               <p>
+                  <note place="margin">Mercer.</note>ALthough there be no ſet time appointed for Baptiſme, as there was for Circumciſion, yet certainly it ought to be adminiſtred as ſoone as may be; not that wee ſhould doubt of their ſalvation that want Baptiſme, if they happen to die without it; for we doe not aſcribe ſo much vertue to the ſigne, as that when it cannot be had, we ſhould queſtion the reality of the thing ſignify<g ref="char:EOLhyphen"/>ed. <hi>Mercer</hi> on <hi>Gen.</hi> 17.</p>
+               <p>
+                  <note place="margin">Calvin.</note>It is to be noted, that when a man is admitted into the Fellowſhip of Beleevers, the promiſe is not only made to him, but to his chil<g ref="char:EOLhyphen"/>dren: <hi>Gen.</hi> 17.7. Therefore he which is not within this Covenant from his cradle, is a ſtranger from the Church, till he be brought in by the Doctrine of Faith and Repentance: But then his ſeed be<g ref="char:EOLhyphen"/>gins to be of the Family of the Church. Therefore Infants of Belee<g ref="char:EOLhyphen"/>vers are Baptized by vertue of this Covenant, which is made with their Fathers in their Name; In this therefore the Anabaptiſts doe miſerably deceive themſelves. <hi>Cal.</hi> Inſtitutions againſt Anabaptiſts.</p>
+               <p>
+                  <note place="margin">Sadcel.</note>If they underſtand Chriſts Inſtitution of Baptiſme to be neceſ<g ref="char:EOLhyphen"/>ſarily continued in the Chriſtian Church, even to the end of the World, and that the children of Chriſtians ought to be Baptized, even ſo do we underſtand, and beleeve: As it appeares in the confeſ<g ref="char:EOLhyphen"/>on of the French Church: <hi>Artic.</hi> 35. <hi>Sadeelis opera Theol. pag.</hi> 428.</p>
+               <p>
+                  <note place="margin">Junius.</note>All the Elect are to be Baptized into the body of Chriſt; if moreover all of them, as well Infants as perſons of yeers, ought to put on Chriſt, then to ſeparate them from the body of Chriſt, and not to ingraffe them into Chriſt, were a moſt wicked thing. And againe; when Infants are Baptized, God doth both offer, and con<g ref="char:EOLhyphen"/>ferre all the good things of the Covenant, and ingageth himſelf un<g ref="char:EOLhyphen"/>to it: <hi>Iunius</hi> in his <hi>Theſis</hi> of Baptizing Infants.</p>
+               <p>
+                  <note place="margin">Voſſius.</note>Although Infants have not actuall Faith, yet this ought no more
+<pb n="5" facs="tcp:121076:5"/>
+to keepe them off from baptiſme, then meat ought to be denied them, becauſe the Apoſtle ſaith, he that will not labour let him not eate: <hi>
+                     <g ref="char:V">Ʋ</g>oſſius, Defence of baptizing Infants.</hi>
+               </p>
+               <p>Infants borne of Chriſtian parents ought to be baptized,<note place="margin">Polanus.</note> as may be proved by theſe arguments:</p>
+               <p n="1">1. All that are in covenant with God ought to be baptized; but infants are within the covenant of grace, 1 <hi>Cor.</hi> 7.14. And Chriſt bleſſed and conſecrated infants, <hi>Matth.</hi> 19.</p>
+               <p n="2">2. Becauſe to them belongs the promiſe of remiſſion of ſins by the blood of Chriſt, <hi>Acts</hi> 2.38, 39.</p>
+               <p n="3">3. Becauſe infants doe belong to the Church of God; <hi>For theirs is the Kingdome of Heaven.</hi>
+               </p>
+               <p n="4">4. Becauſe they are redeemed with the blood of Chriſt, and waſhed from their ſinnes, and ſo by the vertue of the holy Spirit have the thing ſignified; why then ſhould they be debarred from participating of the ſigne?</p>
+               <p n="5">5. Becauſe the holy Ghoſt is promiſed to them; yea, they have the holy Ghoſt.</p>
+               <p n="6">6. Becauſe they ſhould be diſtinguiſhed from the children of In<g ref="char:EOLhyphen"/>fidels, therefore the ſigne of diſtinction ſhould be put upon them.</p>
+               <p n="7">7. Becauſe the Apoſtles baptized whole families.</p>
+               <p n="8">8. Becauſe infants were circumciſed: <hi>Polani Syntagma, cap. de Bapt.</hi>
+               </p>
+               <p>The Anabaptiſts deale very preſumptuouſly,<note place="margin">Aretius.</note> in denying infants to have faith; but ſuppoſe they have not faith, their parents have; and their children are holy, 1 <hi>Cor.</hi> 7.14. and doe belong to the Church, and have the Spirit of God, who adminiſtreth the true baptiſme; why therefore ſhould they not be baptized? ſhall our children be more unhappy then the children of the Jewes, which were not debarred the ſigne of the covenant? Is our baptiſme in<g ref="char:EOLhyphen"/>feriour to circumciſion, that it may not be adminiſtred to infants as that was? but infants have faith in their kind, their parents doe be<g ref="char:EOLhyphen"/>lieve, and they have the Spirit of God; 'tis our part therefore to hope well of them, ſeeing election is one of the hidden ſecrets of God: Therefore by no honeſt reaſon may baptiſme be denyed to Infants. <hi>Aretius com. places: loco.</hi> 66.</p>
+               <p>We ought to believe that Chriſt died for infants,<note place="margin">Brentius.</note> and that the Father is well pleaſed with them in him, and that God is not onely the God of men growne, but even of infants alſo. In this confi<g ref="char:EOLhyphen"/>dence
+<pb n="6" facs="tcp:121076:6"/>
+we ought to pray for the ſalvation of infants, and to offer them in baptiſme, that being incorporated into the body of Chriſt by baptiſme, they may attaine eternall life. <hi>Brentius</hi> on Luke 5.</p>
+               <p>
+                  <note place="margin">Pareus.</note>Circumciſion and Baptiſme doe agree in their principall ends:</p>
+               <p n="1">1. In that both doe ſignifie the grace of Chriſt juſtifying and re<g ref="char:EOLhyphen"/>generating by the blood and Spirit of Chriſt.</p>
+               <p n="2">2. In that both doe ſolemnly bind to the faith and obedience of Gods covenant.</p>
+               <p n="3">3. In that in both there is a ſolemne reception of all in covenant, as well infants as thoſe of yeeres, into the Church, and diſtinguiſh<g ref="char:EOLhyphen"/>ing them from aliens.</p>
+               <p n="4">4. In that both doe belong to all ages, as well infants as men growne. <hi>Pareus</hi> on <hi>Gen.</hi> 17.</p>
+               <p>
+                  <note place="margin">Spanhe<g ref="char:EOLhyphen"/>mius.</note>We conclude the baptiſme of infants to be juſtly retained in the Church of Chriſt, for theſe reaſons:</p>
+               <p n="1">1. Becauſe it is founded on Gods Commandement, on holy ex<g ref="char:EOLhyphen"/>amples, and on the promiſe, as hath been ſhewed before.</p>
+               <p n="2">2. Becauſe the ſigne of the covenant ought to be given to all that are within the covenant.</p>
+               <p n="3">3. Becauſe otherwiſe the children of believers ſhould have no more priviledge, then the children of Jews or Gentiles.</p>
+               <p n="4">4. Becauſe baptiſme ſucceedeth circumciſion, and beares a cor<g ref="char:EOLhyphen"/>reſpondency with it. The condition of the Jewes children under the old Teſtament ſhould not be better then that of the infants of Chriſtians under the new, <hi>Spanh. Dubia Evangelica. part.</hi> 3.</p>
+               <p>
+                  <note place="margin">Lavater.</note>Seeing the grace of the Goſpell extends it ſelfe more largely then that of the Law, it was expedient that a Sacrament ſhould be or<g ref="char:EOLhyphen"/>dained, divulging more grace then circumciſion; Therefore bap<g ref="char:EOLhyphen"/>tiſme is adminiſtred to women, though circumciſion was not: whereby we may conclude againſt thoſe who deny the baptizing of infants. For if children under the Law were circumciſed, notwith<g ref="char:EOLhyphen"/>ſtanding they could know nothing of the nature and benefit of that covenant; why ſhould not our children be baptized now? was the condition of children better under the old Teſtament then under the new? none but ſuch as are paſt ſhame will affirme it: <hi>Lavater</hi> on <hi>Ioſ.</hi> 5.</p>
+               <p>
+                  <note place="margin">Gualter.</note>Let no man thinke we goe about to patronize the Anabaptiſti<g ref="char:EOLhyphen"/>call madneſſe: for they doe both erre dangerouſly from the truth, and rage againſt it, whiles they contend that the ſame courſe is to
+<pb n="7" facs="tcp:121076:6"/>
+be taken with the children of believing parents, and ſtrangers of growne yeeres. For they which were formerly ſtrangers, and out of the Church of Chriſt (ſuch as were Jewes and Gentiles) we ſay ought not to be baptized (unleſſe we would profane that holy Or<g ref="char:EOLhyphen"/>dinance of baptiſme) untill they can give an account of their faith: But there is a great difference betweene them and the children of believers; for theſe are to be accounted members of the Church, and within the covenant: ſuch are holy, and Chriſt will have ſuch to come unto him; and 'tis manifeſt that ſuch doe pleaſe God, in that their Angels doe alwaies behold the face of their Father. And though we cannot comprehend their ſtate and condition, yet Chriſt teſtifies that they have faith, and are capable of the Spirit of God; as the example of <hi>Iohn Baptiſt</hi> and others, who were ſanctified in the wombe, doth teſtifie: Therefore to deny baptiſme to ſuch is an extreame impiety, and a wickedneſſe of a monſtrous impudency: <hi>Gualter</hi> on <hi>Act.</hi> 8.</p>
+               <p>By no meanes the ſigne of the covenant is to be denied them to whom the right of the covenant belongs;<note place="margin">Muſculus.</note> ſeeing therefore that baptiſme is nothing elſe but a ſigne of the covenant and grace of God, in the new Teſtament, and the children of beleevers amongſt the Gentiles are no leſſe partakers of this teſtament and grace of God, which is given to the elect in the Kingdome of God by Jeſus Chriſt, then the children of the Jewes; what madneſſe is it to deny them the ſigne of this grace? what elſe is this but to account our children excluded, as ſtrangers, from the grace and covenant of God? he that denies the ſign, doth certainly (as much as in him lies) take away the thing ſignified: <hi>Muſculus</hi> on <hi>Matth.</hi> 8.</p>
+               <p>It is not to be doubted,<note place="margin">Chemni<g ref="char:EOLhyphen"/>tius.</note> but that the Spirit of Chriſt doth worke ſo effectually, even in infants that are baptized, as that it makes them capable of the Kingdome of God, although we doe not know how it is done. For baptiſme is the laver of regeneration and reno<g ref="char:EOLhyphen"/>vation, which the holy Spirit powreth on them that are baptized; whereby they being juſtified are made heires of eternall life, <hi>Tit.</hi> 3.5. and that little children doe receive the Kingdome of God, Chriſt himſelfe affirmeth. <hi>Matth.</hi> 10.15. and this is called the faith of in<g ref="char:EOLhyphen"/>fants; for as circumciſion in the old Teſtament, was to infants a ſigne of the righteouſneſſe of faith, <hi>Rom.</hi> 4.11. ſo in the new Teſta<g ref="char:EOLhyphen"/>ment, becauſe children that are baptized doe pleaſe God, and are ſaved, they neither may nor ought to be rejected amongſt Infidels,
+<pb n="8" facs="tcp:121076:7"/>
+but are truely to be reckoned amongſt beleevers; and ſo unto them belong the words, <hi>He that believeth and is baptized ſhall be ſaved, Mar.</hi> 16.16. <hi>Chemnitii loca Theol. de Bapt.</hi>
+               </p>
+               <p>
+                  <note place="margin">Marlorat.</note>If you aske, how the children of Chriſtians doe belong to the Church, or to Chriſt; we anſwer. No otherwiſe then the children of the Jewes (being the ſeed of <hi>Abraham</hi>) are ſaid to be within the covenant of God, <hi>Gen.</hi> 17.7. therefore our children are baptized, as theirs were circumciſed; becauſe they are not to be reputed out of the Church; for we are the ſonnes of the promiſe, and are partakers of the inheritance with <hi>Abraham;</hi> and what was ſaid to him, is pro<g ref="char:EOLhyphen"/>miſed to us, and our children: For they may have the Grace and Spirit of Chriſt, ſeeing they are members of us, and of the Church. If the root be holy, the branches are alſo holy, <hi>Rom.</hi> 12.16. which things, though they be ſpoken of the Jewes, yet doe they belong to us. And if the Lord hath ſevered the children of believing parents from the common ſort of men, why doe we deny them the ſigne? This therefore refutes the brain-ſicke opinion of the Anabaptiſts, who deny baptiſme to Chriſtians children, whom the Apoſtle pro<g ref="char:EOLhyphen"/>nounceth holy, by vertue of the promiſe. <hi>Marlorat</hi> on 1 <hi>Cor.</hi> 7.14.</p>
+               <p>
+                  <note place="margin">Beza.</note>The words of the covenant are cleare; <hi>I will be thy God, and the God of thy ſeed.</hi> Now by <hi>ſeed</hi> is meant all the Gentiles that believe with righteous <hi>Abraham, Gal.</hi> 38. And the Apoſtle doth manifeſtly declare, that the children of believing parents are holy, yea, though but one of the parents believeth; by which holineſſe, nothing elſe can be underſtood, then being within the covenant; whereby holy perſons are diſtinguiſhed from profane. Therefore we ought to judge hopefully of all that are borne of Chriſtian parents, as the indefinite words of the covenant, and the rule of charity teacheth us. <hi>Beza, Queſtions and Anſwers.</hi>
+               </p>
+               <p>
+                  <note place="margin">Hemin<g ref="char:EOLhyphen"/>gius.</note>The command of Chriſt is generall; that all Nations ſhould be baptized, <hi>Matth.</hi> 28. therefore we gather that it is ſacriledge to deny baptiſme to infants. <hi>Hemingii Euchiridion de Bapt.</hi>
+               </p>
+               <p>
+                  <note place="margin">Zanche.</note>We believe with the ancient catholicke Church, that not onely perſons of yeeres, (who can expreſſe repentance, and are able to make profeſſion of their faith) ſhould be admitted to the Sacrament of baptiſme, but even infants alſo, ſeeing we are to account them within the covenant: for the Apoſtle ſaith; that the children of believers are holy, 1 <hi>Cor.</hi> 7.14. eſpecially ſeeing Chriſt hath no where altered the command of God given to <hi>Abraham,</hi> for ſigning
+<pb n="9" facs="tcp:121076:7"/>
+the children of believers with the ſigne of the covenant; yea he hath ſaid, <hi>Suffer little children to come unto me, for of ſuch is the Kingdome of Heaven,</hi> Matth. 19.14. <hi>Zanch. de Rel. Chriſtiana.</hi>
+               </p>
+               <p>Becauſe this queſtion (whether infants ſhould be baptized) hath been much perplexed with the diſputations of the Pelagians of old, and of late with the clamors of the Anabaptiſts;<note place="margin">Daneus.</note> we will collect ſome reaſons to prove that the infants of believers may, and ought to be baptized. The Papiſts indeed teach, that this practice hath pre<g ref="char:EOLhyphen"/>vailed onely by the degrees of ancient Fathers, and cuſtome of the Church, and by the traditions of men. But we better and more truely affirme, that both the doctrine and practice hereof is foun<g ref="char:EOLhyphen"/>ded and eſtabliſhed by the Word of God; although the Scripture doth not in expreſſe termes declare that infants ſhould be baptized, yet by conſequence and the analogy of faith, it will appeare to be the direct ſenſe and meaning of the written Word. We will not in<g ref="char:EOLhyphen"/>ſiſt upon all the reaſons that may be produced to this purpoſe, but onely ſelect ſome, &amp;c.</p>
+               <p n="1">1. Infants and children of believers, even they are believers and within the covenant, and belong to God, even as the fathers them<g ref="char:EOLhyphen"/>ſelves, <hi>Gen.</hi> 17.7. <hi>Exod.</hi> 20.6. Therefore the ſigne of Gods covenant belongs to them, as well as their parents; which now under the Goſpell is baptiſme. For the children of believers are ſanctified from the wombe, 1 <hi>Cor.</hi> 7.14. therefore baptiſme, which is the ſigne of ſanctification, belongs to them.</p>
+               <p n="2">2. Thoſe to whom God giveth and applieth the thing it ſelfe, to them doth the ſigne appertaine: (for no man ought to reſtraine or withſtand the grace of God, <hi>Acts</hi> 11.17.) now God doth give to infants of beleeving parents the thing ſignified in baptiſme, which is remiſſion of ſins, and ſanctification, although the effects of thoſe gifts doe not preſently appeare in them, 1 <hi>Cor.</hi> 7.14. for he affirms, that of ſuch is the Kingdome of Heaven. So that infants of belie<g ref="char:EOLhyphen"/>vers are heires of the Kingdome of God, as well as thoſe that are of yeeres of underſtanding: therefore to them belong the ſignes of thoſe graces; for the baptiſme of Chriſt belongs to the whole Church.</p>
+               <p n="3">3. Circumciſion as well as baptiſme was a ſigne of the righteouſ<g ref="char:EOLhyphen"/>neſſe of God, <hi>Rom.</hi> 4, 11. and circumciſion was to the Jewes a ſigne of mortifying the fleſh, as baptiſme is to us, <hi>Deut.</hi> 10.30. <hi>Rom.</hi> 6.4. and God commanded that infants ſhould be circumciſed; there<g ref="char:EOLhyphen"/>fore
+<pb n="10" facs="tcp:121076:8"/>
+they ought to be baptized; otherwiſe the grace of God under the Goſpell ſhould be ſcanter, and intended to fewer, then under the Law.</p>
+               <p n="4">4. Chriſts command for baptiſme was generall, not excluding in<g ref="char:EOLhyphen"/>fants, <hi>Matth.</hi> 28.19. therefore baptiſme belongs to them; and the Apoſtles are ſaid to baptize whole families, <hi>Acts</hi> 16.15 33. amongſt which tis probable that there were infants.</p>
+               <p n="5">5. The example of the univerſall Chriſtian Church confirms this practice: which may appeare by the teſtimony of divers writers in ſeverall ages, as <hi>Origen</hi> on <hi>Rom.</hi> 6. <hi>Aug. lib.</hi> 4. of baptizing infants, againſt the Donatiſts.</p>
+               <p n="6">6. <hi>Heb.</hi> 6.2. The doctrine of baptiſme is called the doctrine of impoſition of hands, which belongs to infants, <hi>'Daneus Iſag. part.</hi> 4.</p>
+               <p>
+                  <note place="margin">P. Martyr.</note>As of old circumciſion was adminiſtred to infants, ſo ought it not to be denied them now; for if they have the thing ſignified, why ſhould they not have the ſigne? Let no man doubt that circumci<g ref="char:EOLhyphen"/>ſion and baptiſme are alike, and that there is the ſame reaſon of the one as of the other. This doth <hi>Paul</hi> plainly teach to the Coloſſians, where he cals baptiſme the circumciſion of Chriſt. And they who allow that the Hebrews children ought to be circumciſed, and yet deny that ours ſhould be baptized, doe make God better to the Jewes, then to Chriſtians. But ſome will ſay, foraſmuch as we can<g ref="char:EOLhyphen"/>not tell whether infants have the matter of the Sacrament, why doe we give them the ſigne, and apply the Seale to that which is uncertaine? To whom we anſwer that this queſtion is not ſo much againſt us, as againſt the Word of God; for he hath abſolutely commanded that children ſhould be circumciſed. We ſay of our Infants, that 'tis enough for us, that their parents or any other, in whoſe power they are, doe preſent them to the Church; and if ele<g ref="char:EOLhyphen"/>ction and predeſtination concur with the Sacramentall action, then what we doe is confirmed; but if not, then all is void; for our ſal<g ref="char:EOLhyphen"/>vation depends upon the election and mercy of God. <hi>Peter Martyr,</hi> on <hi>Rom.</hi> 4.</p>
+               <p>
+                  <note place="margin">Bucer.</note>It appeares plainly by St. <hi>Paul,</hi> that baptiſme ſucceeds circumci<g ref="char:EOLhyphen"/>ſion, and that baptiſme is the ſame now, that circumciſion was of old; excepting that the Spirit is given more powerfully now, and the knowledge of Jeſus Chriſt is more fully and plainly manifeſted. As therefore of old, the infants of Gods people were admitted into the covenant by circumciſion, even ſo ought ours, by baptiſme;
+<pb n="11" facs="tcp:121076:8" rendition="simple:additions"/>
+neither are our children leſſe deare to God, then were the children of the Jewes. And whereas ſome deride us, ſaying, why then doe we not baptize males onely, ſeeing onely ſuch were circumciſed? We anſwer, that in Chriſt there is neither male nor female, &amp;c. <hi>Bucer</hi> on <hi>Matth.</hi> 3.</p>
+            </div>
+            <div type="part">
+               <head>The Judgement of our Engliſh Modern <hi>Divines</hi> touching <hi>Infants Baptiſme.</hi>
+               </head>
+               <p>IN the very beginning of Regeneration,<note place="margin">Dr. Ames.</note> whereof baptiſme is the Seale, a man is mereely paſſive; and hence it is, that of a man that is to be either circumciſed, or baptized, no externall act is re<g ref="char:EOLhyphen"/>quired, (as in other Sacraments there is) but onely a capacity paſſive to receive: infants therefore are as capable of this Sacrament, in reſpect even of the chiefe uſe thereof, as men of yeeres themſelves. <hi>Ames contra Anab.</hi>
+               </p>
+               <p>Though faith and actuall repentance be required in thoſe that be of yeeres, before they receive the ſigne of the covenant,<note place="margin">Dr. Dave<g ref="char:EOLhyphen"/>nant.</note> yet is it not neceſſary in the infants of believing parents; for to be within the covenant is enough to make one capable of the ſigne of the co<g ref="char:EOLhyphen"/>venant; now infants are in the ſame covenant with their parents, <hi>Gen.</hi> 17.7. This we ſee in <hi>Abraham,</hi> who firſt believed and then was circumciſed; but <hi>Iſaac</hi> was circumciſed before he could declare that he believed: This ſame thing is rightly done in the children of be<g ref="char:EOLhyphen"/>lieving parents, by the practiſe of the Apoſtles, who did not baptize any of yeeres till they had profeſſed their faith; but when the pa<g ref="char:EOLhyphen"/>rents had imbraced the faith, then their whole families were bapti<g ref="char:EOLhyphen"/>zed, <hi>Act.</hi> 16.15.33. 1 <hi>Cor.</hi> 1.16. now no man doubts but that chil<g ref="char:EOLhyphen"/>dren are comprehended under the notion of family. <hi>Davenant</hi> on <hi>Coloſ.</hi> 2.</p>
+               <p>In ſome the Sacraments do effectually worke in proceſſe of time by the helpe of Gods Word, read or preached,<note place="margin">Mr Thoj Rogers.</note> which ingendreth faith; ſuch is the eſtate principally of infants elected unto life and ſalvation. <hi>Rogers Explication of the</hi> 39 <hi>Articles.</hi>
+               </p>
+               <p>Infants receive the Divine vertue of the holy Ghoſt in baptiſme,<note place="margin">Mr. Hoo<g ref="char:EOLhyphen"/>ker.</note> which giveth to the powers of the ſoule their firſt diſpoſition to<g ref="char:EOLhyphen"/>wards future newneſſe of life. <hi>Hooker Eccleſ. politic.</hi>
+               </p>
+               <p>
+                  <pb n="12" facs="tcp:121076:9"/>
+                  <note place="margin">Mr. Per<g ref="char:EOLhyphen"/>kins.</note>The baptiſme of infants hath warrant out of the Word of God, however ſome men be of contrary opinion; for all the Iſraelites were baptized in the Sea, and among them, no doubt, were many children. If it be ſaid, that baptiſme was extraordinary, and there<g ref="char:EOLhyphen"/>fore is no ground for ours. <hi>Anſw.</hi> True, it was extraordinary for the manner; but yet herein, the matter, and ſubſtance, and the thing ſignified is ordinary, and the end all one with ours. And therefore the baptiſme of infants in the red Sea, is ſome warrant for the Baptiſme of infants in the Church now adaies. <hi>Perkins</hi> on <hi>Heb.</hi> 11.</p>
+               <p>
+                  <note place="margin">Mr. Ainſ<g ref="char:EOLhyphen"/>worth.</note>They are but a faithleſſe and crooked generation, that notwith<g ref="char:EOLhyphen"/>ſtanding all that God hath ſpoken and done in this kind, doe deny this grace of Chriſt to the infants of his people, and the ſeale or con<g ref="char:EOLhyphen"/>firmation of this grace by baptiſme now, as it was by circumciſion of old. <hi>Ainſworth,</hi> cenſure of a Dialogue of the Anabaptiſts.</p>
+               <p>
+                  <note place="margin">Dr. Willet.</note>Every man-child of eight daies old ſhall be circumciſed, &amp;c. From hence the baptiſme of infants, which commeth in the place of cir<g ref="char:EOLhyphen"/>cumciſion, is moſt pertinently proved, againſt the groſſe errour of the Anabaptiſts. For as then infants were circumciſed to ſhew the contagion of the nature, from the which they were cleanſed, by the circumciſion of the Spirit: ſo even infants now, being guilty of originall corruption, have need of the Sacrament of Regeneration. <hi>Willet</hi> on <hi>Gen.</hi> 17.</p>
+               <p>
+                  <note place="margin">Mr. Hil<g ref="char:EOLhyphen"/>derſham.</note>There is great need that infants ſhould be baptized, for this ma<g ref="char:EOLhyphen"/>keth greatly for the faith and comfort of their parents, for the pre<g ref="char:EOLhyphen"/>ſent, and of their owne afterwards; that as they are by nature ſo filthy and loathſome in the ſight of God, ſo the Lord hath in the blood of Jeſus Chriſt (whereof the water in baptiſme is a ſigne and ſeale) provided a laver to waſh and cleanſe them in, even the laver of regeneration, as the Apoſtle calleth it, <hi>Tit.</hi> 3.5. yea a fountaine opened (as the Prophet calleth it, <hi>Zach.</hi> 13.1.) for ſin and unclean<g ref="char:EOLhyphen"/>neſſe, ſufficient to cleanſe them from all this filthineſſe, and corrup<g ref="char:EOLhyphen"/>tion of their nature. <hi>Hilderſham</hi> on <hi>Pſalm</hi> 51. <hi>Lect.</hi> 55.</p>
+               <p>
+                  <note place="margin">Dr. Fulk.</note>We doe no otherwiſe affirme Chriſtian mens children to be holy from their mothers wombe, then St. <hi>Paul,</hi> 1 <hi>Cor.</hi> 7.14. ſaith; they are holy becauſe they are compriſed in Gods covenant, and have right to be baptized. <hi>Fulk</hi> on <hi>Rhem. Teſt. Rom.</hi> 5.</p>
+               <p>
+                  <note place="margin">Mr. Hie<g ref="char:EOLhyphen"/>ron.</note>Indeed the Anabaptiſts, who diſpute againſt the baptizing of in<g ref="char:EOLhyphen"/>fants, doe much urge the practice of the Apoſtles, and of <hi>Philips</hi>
+                  <pb n="13" facs="tcp:121076:9" rendition="simple:additions"/>
+baptizing the Eunuch; urging that they baptized none but ſuch as were able to give an account of their faith. To this I anſwer: 1. That it is not ſimply improper to call the infant of believing parents, a believer; becauſe though he doe not now actually believe, yet partly becauſe for his parents ſake, he is within the compaſſe of the covenant; and partly becauſe of that which may well be hoped for hereafter it were hard to terme him an infidell, ſo it were not harſh to call him a believer; And why not a believer as well as a reaſo<g ref="char:EOLhyphen"/>nable creature? though yet there is in him no uſe of reaſon nor any certainty of ability hereafter to enjoy it? 2. The argument is naught from the Apoſtles practiſe; for that courſe which they took with one certaine age of perſons, cannot be ſtretched out to all without exception; In <hi>Abrahams</hi> perſon, the knowledge of the na<g ref="char:EOLhyphen"/>ture of the Sacrament, and a yeelding himſelfe to live under the Lords obedience, went before the receiving of circumciſion; yet in <hi>Iſaac</hi> it was not ſo, he was circumciſed firſt, and inſtructed after. 3. As concerning the Apoſtles practiſe it ſelfe, there is no certainty for it, that they baptized none but ſuch as were able to make ac<g ref="char:EOLhyphen"/>knowledgment of their faith; there is more probability on the con<g ref="char:EOLhyphen"/>trary, that they baptized even ſome infants, as (namely) when they baptized whol families. 4. Be it that none of all theſe things wil ſerve to juſtifie the baptiſme of infants, (yet unable to make confeſſion of their faith) yet their intereſt into the promiſe of God, is a ſufficient plea: that promiſe <hi>Acts</hi> 2.39. is made to them that believe, and to their children. If then the promiſe belong to infants, why not alſo the ſeale of the promiſe? <hi>Hieron</hi> in his Sermon of baptizing the Eunuch.</p>
+               <p>This covenant is contained in the Scripture;<note place="margin">Dr. Whi<g ref="char:EOLhyphen"/>taker.</note> 
+                  <hi>I will be thy God, and the God of thy ſeed, Gen.</hi> 17.7. therefore the baptiſme of infants is grounded upon the written Word of God: and certainly, if we had not better authority for the baptizing of infants, then un<g ref="char:EOLhyphen"/>written Traditions, we were in an ill caſe to deale with Anabaptiſts in this matter. <hi>Whitaker</hi> againſt <hi>Bellarmin de perfectione ſcripturae.</hi>
+               </p>
+               <p>We ſay that baptiſme is a Sacrament of the remiſſion of ſins,<note place="margin">Dr. Jewell.</note> and of that waſhing, which we have in the blood of Chriſt; and that no perſon, which will profeſſe Chriſts name, ought to be reſtrained or kept backe there from; no not the very babes of Chriſtians: for<g ref="char:EOLhyphen"/>aſmuch as they be borne in ſin, and doe pertaine unto the people of God. <hi>Jewels Apologie, cap.</hi> 11. <hi>diviſion</hi> 3.</p>
+               <p>
+                  <pb n="14" facs="tcp:121076:10" rendition="simple:additions"/>
+                  <note place="margin">D. Mayer.</note>That the children of believing parents ought to be baptized, it is plaine.</p>
+               <p n="1">1. From the uſe of circumciſion, which was the forerunner here<g ref="char:EOLhyphen"/>of, which was appointed to be done upon the eighth day after the birth. Now the Seale of Gods covenant is to be applyed unto the children of Chriſtians, as ſoone as unto the children of the Jewes; but unto the Jews the ſeale was applyed in their infancy; therefore to the children of Chriſtians likewiſe, as circumciſion their ſeale to them, ſo baptiſme our ſeale to us.</p>
+               <p n="2">2. From the eſtate of infants, the promiſes belong to them, as well as unto their parents, ſaith <hi>Peter, Acts</hi> 2.39. and theirs is the Kingdome of Heaven, ſaith Chriſt; and they are holy, ſaith <hi>Paul,</hi> 1 <hi>Cor.</hi> 7.14. now unto thoſe that are wholly partakers of the pro<g ref="char:EOLhyphen"/>miſes of God, and of the Kingdome of Heaven, the ſigne and ſeale of God is not to be denyed; but children of believing parents are ſuch even in their infancy, therefore the ſeale or ſigne of baptiſme may not be denyed.</p>
+               <p n="3">3. From the practiſe of the Apoſtles and firſt teachers of the Goſ<g ref="char:EOLhyphen"/>pell: St. <hi>Paul</hi> baptized the houſhold of <hi>Stephanus</hi> and <hi>Lydia</hi> and her houſhold; and the Jaylor was baptized, with all that belonged unto him. And when little children were brought unto Chriſt, ſome diſliking it were reproved, and the bringers of them encouraged: neither hath there beene any time ſince, wherein they have been refuſed, but ſince the ſpringing up of the many headed Hydra of A<g ref="char:EOLhyphen"/>nabaptiſme. <hi>Mayers</hi> Catech. of childrens baptiſme.</p>
+               <p>
+                  <note place="margin">Mr. Wynel</note>The covenant now, and formerly with the Jewes, is the ſame, in relation to the eternall welfare of the ſoule.</p>
+               <p n="1">1. The foundation of the covenant is the ſame; as Gods free, eternall, and unchangeable love to his elect.</p>
+               <p n="2">2. The occaſion of the covenant, the ſame; as mans miſery by his fall in the loynes of <hi>Adam:</hi> of which this covenant of grace is a preg<g ref="char:EOLhyphen"/>nant and mercifull remedy.</p>
+               <p n="3">3. The Author is the ſame; as God, gracious, mercifull, ſlow to anger, pardoning iniquity, &amp;c.</p>
+               <p n="4">4. The thing promiſed is the ſame; as Chriſt the redeemer and Saviour of mankind.</p>
+               <p n="5">5. The ſpirituall efficacy of the Ordinances the ſame; as the mor<g ref="char:EOLhyphen"/>tification of the fleſh, and the renewing of the creature to Gods Image in Jeſus Chriſt.</p>
+               <p n="6">
+                  <pb n="15" facs="tcp:121076:10"/>6. The ſubjects the ſame; as a people in covenant with God, to yeeld obedience to the faith.</p>
+               <p n="7">7. The end, <hi>cujus,</hi> the ſame; as the glory of Gods mercy to his elect, and the unexcuſe of the reprobate.</p>
+               <p n="8">8. Finally, the end, <hi>cui,</hi> the ſame; as good workes here in this life, and the immortality of the ſoule, and eternall bleſſedneſſe in the life to come.</p>
+               <p>In another place concerning the baptizing of all without diffe<g ref="char:EOLhyphen"/>rence, he ſaith: That, though divers borne within the Church are reprobates, yet as they come one and one unto us, we cannot ſay that this or that child is a reprobate; he may be an elect veſſell, for ought we know. And the adequate end of baptiſme adminiſtred, is not ſalvation of the baptized: The glory of God is the principall end, namely the glory of Gods ſingular mercy, in the ſalvation of his elect; and the glory of Gods juſtice in the unexcuſe of the repro<g ref="char:EOLhyphen"/>bate; As all outward miniſtrations in the Church ſerve for the glory of Gods mercy and juſtice. We put them all under the initiall ſeale of the goſpell, that they may be made ſubject to the goſpell, and be judged by the goſpell. <hi>Wynells</hi> covenants plea for Infants.</p>
+               <p>Next to the arguments drawne from expreſſe teſtimony of Scripture for the baptizing of children,<note place="margin">Dr. Feat<g ref="char:EOLhyphen"/>ley.</note> we have a moſt forcible ar<g ref="char:EOLhyphen"/>gument drawne from the conſent of the univerſall Church, teſtified by their conſtant practice of admitting children to baptiſme, even from the Apoſtles daies unto this preſent. This argument, if it be well weighed, is of very great moment, and may convince the con<g ref="char:EOLhyphen"/>ſcience of any ingenuous Chriſtian. For no Chriſtian doubteth, but that the Apoſtles were inſpired by the holy Ghoſt, and Chriſt pro<g ref="char:EOLhyphen"/>miſed his Spirit to lead his Church into all truth; which promiſe he hath hitherto made good in ſuch ſort, that it cannot be proved that ever the whole Church of Chriſt univerſally erred; it is true, particular Churches have erred, and may erre, and generall Coun<g ref="char:EOLhyphen"/>cels, which the Schooles terme the repreſentative Church, are ſub<g ref="char:EOLhyphen"/>ject to error, and have ſometimes decreed hereſie and falſhood for truth; but the formall Church, as they ſpeake, that is, all the aſſem<g ref="char:EOLhyphen"/>blies of Chriſtians in the world cannot be impeached with error at any time: whence I thus frame my argument.</p>
+               <p>That which the Apoſtles in their daies began, and the whole Chri<g ref="char:EOLhyphen"/>ſtian Church ſcattered over the face of the whole earth hath conti<g ref="char:EOLhyphen"/>nued
+<pb n="16" facs="tcp:121076:11"/>
+in all ages, and all Countries where Chriſtianity hath been, and is profeſſed, cannot be an erroneous practiſe.</p>
+               <p>But the Catholike Chriſtian Church, in all places and ages, even from the Apoſtles times, hath admitted the children of faithfull parents to holy baptiſme.</p>
+               <p>
+                  <hi>Ergo,</hi> the practiſe of chriſtening children cannot be erroneous or unwarrantable, as the Anabaptiſts teach. <hi>Featly, Diſputation with Anab. pag.</hi> 19.</p>
+            </div>
+            <div type="part">
+               <head>Confeſſions of Reformed Churches for <hi>Baptizing</hi> of <hi>Infants.</hi>
+               </head>
+               <p>
+                  <note place="margin">Helvetian.</note>WE condemne the Anabaptiſts, who deny young infants born of faithfull parents, to be admitted to baptiſme; for accor<g ref="char:EOLhyphen"/>ding to the doctrine of the Goſpell, theirs is the Kingdome of God, and they are within the covenant of God, why therefore ſhould not the ſigne of the covenant of God be given unto them? why ſhould they not be initiated by holy baptiſme, that are Gods pecu<g ref="char:EOLhyphen"/>liar and within his Church? <hi>The Helvetian confeſſion, cap.</hi> 20.</p>
+               <p>
+                  <note place="margin">Belgick.</note>Certainly Chriſt ſhed his blood, that he might no leſſe waſh in<g ref="char:EOLhyphen"/>fants of faithfull parents, then thoſe of yeeres; and therefore it is requiſite they ſhould alſo receive the ſigne, or Sacrament, of that thing which Chriſt for their ſakes accompliſhed. <hi>The Belgicke con<g ref="char:EOLhyphen"/>feſſion, Article</hi> 34.</p>
+               <p>
+                  <note place="margin">French.</note>We acknowledge onely two Sacraments, common to the whole Church; the former whereof is Baptiſme, given unto us to wit<g ref="char:EOLhyphen"/>neſſe our Adoption; becauſe in it, we are engrafted into the body of Chriſt, that being waſhed with his blood, we might alſo be re<g ref="char:EOLhyphen"/>newed by his Spirit unto holineſſe of life. <hi>Confeſſion of France, Ar<g ref="char:EOLhyphen"/>ticl</hi> 37.</p>
+               <p>
+                  <note place="margin">Auguſtane</note>Infants being by Baptiſme commended to God are received into the favour of God, and made his ſonnes; as Chriſt teſtifieth, <hi>Matth.</hi> 18. ſaying, <hi>It is not the will of your Father which is in Hea<g ref="char:EOLhyphen"/>ven, that one of theſe little ones ſhould periſh. Auguſtane confeſſion, Article</hi> 9.</p>
+               <p>
+                  <note place="margin">Saxon.</note>We retaine the baptiſme of infants alſo, becauſe it is moſt cer<g ref="char:EOLhyphen"/>taine that the promiſe of grace belongs even to infants; nor doe we
+<pb n="17" facs="tcp:121076:11"/>
+we judge this a meere idle ceremony, but that then they are truely received by God and ſanctified. <hi>The Saxon confeſſion, cap.</hi> 14.</p>
+               <p>I believe and confeſſe that our children (foraſmuch as they alſo are included together with us in the covenant) when they are bapti<g ref="char:EOLhyphen"/>zed into the Articles of the ancient Catholique faith,<note place="margin">Palatine.</note> are made parta<g ref="char:EOLhyphen"/>kers as wel as we of the death of Chriſt, and of all other good things, &amp;c. <hi>Palatinate confeſſion.</hi>
+               </p>
+               <p>Baptiſme is a notable badge of the people of God,<note place="margin">Harmony, &amp;c.</note> for it ſerves us to ſhew of what profeſſion we be, and by our baptiſme we declare in the Church what faith we profeſſe; both we, our children, and our families; namely, the Chriſtian Religion. <hi>Ex actis concordia inter Lutherum, Bucerum, &amp; Helveticas Eccleſias.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A Letter of Mr. <hi>Philpot</hi> to a friend of his priſoner the ſame time in Newgate. Wherein is debated and diſcuſſed the matter or queſtion of infants to be baptized.</head>
+               <opener>The God of all light and underſtanding lighten your heart with all true knowledge of his Word, and make you perfect to the day of our Lord Jeſus Chriſt, whereunto you are now called, through the mighty operation of his holy Spirit. Amen.</opener>
+               <p>I Received yeſternight from you (deare brother <hi>S.</hi> and fellow priſoner for the truth, for Chriſts Goſpell) a Letter, wherein you gently require my judgement concerning the baptiſme of infants which is the effect thereof. And before I doe ſhew you what I have learned out of Gods Word, and of his true and infal<g ref="char:EOLhyphen"/>lible Church touching the ſame, I thinke it not out of the matter to declare what viſion I had the ſame night, whiles muſing on your Letter I fell aſleepe; knowing that God doth not without cauſe reveale to his people who have their minds fixed on him, ſpeciall and ſpirituall revelations to their comfort, as a taſte of their joy and Kingdome to come which fleſh and blood cannot comprehend.</p>
+               <p>Being in the middeſt of my ſweet reſt, it ſeemed me to ſee a great beatifull City, all of the colour of Azure and White, foure ſquare,
+<pb n="18" facs="tcp:121076:12"/>
+in a marvellous beautifull compoſition, in the middeſt of the Sky; the ſight whereof ſo inwardly comforted me, that I am not able to expreſſe the conſolation that I had thereof; yea the remembrance thereof cauſeth as yet my heart to leape for joy, and as charity is no churle, but would others to be partakers of his delight, ſo me thought I called to others (I cannot tell whom) and whiles they came and we together beheld the ſame, by and by to my great grief it faded away.</p>
+               <p>This dreame I thinke not to have come of the illuſion of the ſen<g ref="char:EOLhyphen"/>ſes, becauſe it brought with it ſo much ſpirituall joy, and I take it to be of the working of Gods Spirit, for the contentation of your re<g ref="char:EOLhyphen"/>queſt, as he wrought in <hi>Peter</hi> to ſatisfie <hi>Cornelius.</hi> Therefore I in<g ref="char:EOLhyphen"/>terpret this beautifull City to be the glorious Church of Chriſt, and the appearance of it in the Sky ſignifieth the heavenly ſtate thereof, whoſe converſation is in Heaven, and that according to the Primitive Church, which is now in Heaven, men ought to meaſure and judge the Church of Chriſt now in earth. For as the Prophet <hi>David</hi> ſaith, <hi>The foundations thereof be in the holy hills, and glorious things be spoken of the City of God.</hi> And the marvellous quadrature of the ſame I take to ſignifie, the univerſall agreement in the ſame; and that all the Church here militant ought to conſent to the Primi<g ref="char:EOLhyphen"/>tive Church throughout the foure parts of the world, as the Prophet affirmeth, ſaying, <hi>God maketh us to dwell after one manner in one houſe.</hi> And that I conceived ſo wonderfull joy at the contemplation thereof, I underſtand the unſpeakable joy which they have, that be at unity with Chriſts Primitive Church; for there is joy in the holy Ghoſt, and peace which paſſeth all underſtanding<g ref="char:punc">▪</g> as it is written in the Pſalmes, <hi>As of joyfull perſons is the dwelling of all them that be in thee.</hi> And that I called others to the fruition of this viſion, and to behold this wonderfull City, I conſtrue it by the will of God this viſion to have come upon me muſing on your Letter, to the end that under this figure I might have occaſion to move you with many others, to behold the Primitive Church in all your opinions concerning faith, and to conforme your ſelfe in all points to the ſame, which is the pillar and eſtabliſhment of truth, and teacheth the true uſe of the Sacraments; and having with a greater fulneſſe then we have now, the firſt fruits of the holy Ghoſt, did declare the true interpretation of the Scriptures, according to all verity, even as our Saviour promiſed to ſend them another Comforter, which ſhould teach them all truth.</p>
+               <p>
+                  <pb n="19" facs="tcp:121076:12"/>And ſince all truth was taught and revealed to the Primitive Church which is our mother, let us all that be obedient children of God, ſubmit our ſelves to the judgement of the Church for the better underſtanding of the Articles of our faith, and of the doubt<g ref="char:EOLhyphen"/>full ſentences of the Scripture; let us not goe about to ſhew in us, by following any private mans interpretation of the Word, ano<g ref="char:EOLhyphen"/>ther ſpirit then they of the Primitive Church had leſt we deceive our ſelves; for there is but one Faith, and one Spirit, which is not contrary to himſelfe, neither otherwiſe now teacheth us then he did them: therefore let us believe as they have taught us of the Scrip<g ref="char:EOLhyphen"/>tures, and be at peace with them; according as the true Catholique Church is at this day, and the God of peace aſſuredly will be with us and deliver us out of all our worldly troubles and miſeries, and make us partakers of their joy and bliſſe, through our obedience to faith with them.<note place="margin">Iob 8.</note> Therefore God commandeth us in <hi>Iob</hi> to aske of the elder generation, and to ſearch diligently the memory of the fathers. For we are but yeſterdaies children, and be ignorant, and our daies are like a ſhadow; and they ſhall teach thee (ſaith the Lord) and ſpeake to thee, and ſhall utter words from their hearts; And by <hi>Salomon</hi> we are commanded not to reject the direction of our mother.<note place="margin">Prov. 6.</note> The Lord grant you to direct your ſteps in all things after her, and to abhor contention with her. For as St. <hi>Paul</hi> writeth,<note place="margin">1 Cor. 11.</note> 
+                  <hi>If any man be contentious, neither we, neither the Church of God hath any ſuch cuſtome.</hi>
+               </p>
+               <p>Hitherto I have ſhewed you (good brother <hi>S.</hi>) my judgement generally, of that you ſtand in doubt, and diſſent from others; to the which I wiſh you as mine heart to be conformable, and then doubtleſſe you cannot erre, but boldly may be glad in your trou<g ref="char:EOLhyphen"/>bles, and triumph at the houre of your death, that you ſhall die in Church of God a faithfull martyr, and receive the Crowne of eter<g ref="char:EOLhyphen"/>nall glory. And thus much have I written upon occaſion of a viſion, before God unfained. But that you may not thinke that I go about to ſatisfie you with uncertaine viſions onely, and not after Gods Word, I will take the ground of your Letter, and eſpecially anſwer to the ſame by the Scriptures, and by unfallible reaſons deduced out of the ſame, and prove the baptiſme of infants to be lawfull, commendable, and neceſſary, whereof you ſeeme to ſtand in doubt.</p>
+               <p>Indeed if you looke upon the Papiſticall Synagogue onely, which
+<pb n="20" facs="tcp:121076:13"/>
+hath corrupted Gods Word by falſe interpretations, and hath per<g ref="char:EOLhyphen"/>verted the true uſe of Chriſts Sacraments, you might ſeeme to have good handfaſt of your opinion, againſt the Baptiſme of infants: but for as much as it is of more antiquity, and hath its beginning from Gods Word, and from the uſe of the Primitive Church, it muſt not in reſpect of the abuſe in the popiſh Church be neglected, or thought not expedient to be uſed in Chriſts Church. <hi>Auxentius</hi> one of the Arrians feet, with his adherents, was one of the firſt that denied the Baptiſme of children; and next after him <hi>Pelagius</hi> the hereticke, and ſome others there were in St. <hi>Bernards</hi> time, as it doth appeare by his writings; and in our daies the Anabaptiſts an inordinate kind of men, ſtirred up by the divell, to the deſtruction of the goſpell.</p>
+               <p>But the Catholique truth delivered unto us by the Scriptures, plainly determineth, that all ſuch are to be baptized, as whom God acknowledgeth for his people, and voucheth them worthy of ſancti<g ref="char:EOLhyphen"/>fication or remiſſion of their ſins. Therefore ſince that infants be in the number or ſcrole of Gods people and be partakers of the promiſe by their purification in Chriſt it muſt needs follow hereby that they ought to be baptized, as well as thoſe that can profeſſe their faith; for we judge the people of God as well by the free and libe<g ref="char:EOLhyphen"/>rall promiſe of God as by the confeſſion of faith. For to whomſo<g ref="char:EOLhyphen"/>ever God promiſeth himſelfe to be their God, and whom he ac<g ref="char:EOLhyphen"/>knowledgeth for his, thoſe no man without great impie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y may ex<g ref="char:EOLhyphen"/>clude from the number of the faithfull. But God promiſeth that he will not onely be the God of ſuch as doe profeſſe him, but alſo of infants, promiſing them his grace and remiſſion of ſinnes, as it appeareth by the words of the covenant made unto <hi>Abraham,</hi>
+                  <note place="margin">Geneſ. 17.</note> 
+                  <hi>I will ſet my covenant betweene me and thee (ſaith the Lord) and betweene thy ſeed after thee in their generations, with an everlaſting covenant, to be thy God, and the God of thy ſeed after thee;</hi> to the which covenant cir<g ref="char:EOLhyphen"/>cumciſion was added, to be a ſigne of ſanctification, as well in chil<g ref="char:EOLhyphen"/>dren as in men; and no man may thinke that this promiſe is abro<g ref="char:EOLhyphen"/>gated with circumciſion, and other ceremoniall lawes; for Chriſt came to fulfill the promiſes, and not to diſſolve them: therefore in the Goſpell he ſaith of infants,<note place="margin">Matth. 5.</note> that is of ſuch as yet believed not, <hi>Let the little ones come unto me,</hi>
+                  <note place="margin">Matth 10. Matth. 19. Matth. 18.</note> 
+                  <hi>and forbid them not, for of ſuch is the Kingdome of Heaven.</hi> Againe, <hi>it is not the will of your father which is in Heaven, that any of theſe little ones doe periſh.</hi> Alſo, <hi>he that receiveth
+<pb n="21" facs="tcp:121076:13"/>
+one ſuch little child in my name, receiveth me.</hi> Take heed therefore that ye deſpiſe not one of theſe babes, for I tell you their Angels doe continually ſee in Heaven my fathers face: and what may be ſaid more plaine then this, <hi>It is not the will of the heavenly Father, that the infants ſhould periſh?</hi> whereby we may gather, that he receiveth them freely unto his grace, although as yet they confeſſe not their faith. Since then that the word of the promiſe, which is contained in baptiſme, pertaineth as well to children as to men, why ſhould the ſigne of the promiſe, which is baptiſme in water, be withdrawne from children, when Chriſt himſelfe commandeth them to be re<g ref="char:EOLhyphen"/>ceived of us, and promiſeth the reward of a Prophet to thoſe that receive ſuch a little infant, as he for an example did put before his Diſciples?</p>
+               <p>Now will I prove with manifeſt arguments that children ought to be baptized and that the Apoſtles of Chriſt did baptize children. The Lord commanded his Apoſtles to baptize all Nations: there<g ref="char:EOLhyphen"/>fore alſo ought children to be baptized, for they are comprehended under this word, <hi>All Nations.</hi>
+               </p>
+               <p>Further,<note place="margin">Acts 10.</note> whom God doth account among the faithfull they are faithfull, for it was ſaid to <hi>Peter, That thing which God hath purified, thou ſhalt not ſay to be common or uncleane:</hi> But God doth repute chil<g ref="char:EOLhyphen"/>dren among the faithfull: <hi>Ergo,</hi> they be faithfull, except we had rather to reſiſt God, and ſeem ſtronger and wiſer then he.</p>
+               <p>And without all doubt the Apoſtles baptized thoſe whom Chriſt commanded: but he commanded the faithfull to be baptized,<note place="margin">1 Cor. 1.</note> a<g ref="char:EOLhyphen"/>mong the which infants be reckoned; The Apoſtles then baptized infants.</p>
+               <p>The Goſpell is more then baptiſme, for <hi>Paul</hi> ſaid,<note place="margin">1 Cor. 1.</note> 
+                  <hi>The Lord ſent me to preach the Gospell,</hi> and not to baptize; not that he denied ab<g ref="char:EOLhyphen"/>ſolutely that he was ſent to baptize, but that he preferred doctrine before baptiſme, for the Lord commanded both to the Apoſtles; but children be received by the doctrine of the Goſpell of God, and not refuſed; therefore what perſon being of reaſon may deny them baptiſme, which is a thing leſſer then the Goſpell, for in Sacraments be two things to be conſidered: the thing ſignified, and the ſigne; and the thing ſignified is greater then the ſigne; and from the thing ſignified in baptiſme children are not excluded; who therefore may deny them the ſigne, which is baptiſme in water?</p>
+               <p>St. <hi>Peter</hi> could not deny them to be baptized in water, to whom
+<pb n="22" facs="tcp:121076:14"/>
+he ſaw the holy Ghoſt given, which is the certaine ſigne of Gods people,<note place="margin">Acts 10.</note> for he ſaith in the Acts, <hi>May any body forbid them to be bap<g ref="char:EOLhyphen"/>tized in water, who have received the holy Ghoſt as well as we?</hi> There<g ref="char:EOLhyphen"/>fore St. <hi>Peter</hi> denied not baptiſme to infants, for he knew certainly, both by the doctrine of Chriſt, and by the covenant, which is ever<g ref="char:EOLhyphen"/>laſting, that the Kingdome of Heaven pertained to infants.</p>
+               <p>None be received into the Kingdome of Heaven but ſuch as God loveth,<note place="margin">Rom. 8.</note> and which are endued with his Spirit, for whoſo hath not the Spirit of God, he is none of his: But infants be beloved of God, and therefore want not the Spirit of God; wherefore if they have the Spirit of God as well as men, if they be numbred among the people of God as well as we that be of age, who I pray you may well withſtand children to be baptized with water, in the name of the Lord?</p>
+               <p>The Apoſtles in times paſt being yet not ſufficiently inſtructed, did murmure againſt thoſe that brought their children unto the Lord, but the Lord rebuked them and ſaid, <hi>Let the babes come unto me;</hi>
+                  <note place="margin">Matth. 10.</note> why then doe not theſe rebellious Anabaptiſts obey the Com<g ref="char:EOLhyphen"/>mandement of the Lord? for what doe they nowadaies elſe that bring their children to baptiſme, then that they did in times paſt which brought their children to the Lord; and our Lord recei<g ref="char:EOLhyphen"/>ved them, and putting his hands on them, bleſſed them, and both by words, and by gentle behaviour towards them, declared mani<g ref="char:EOLhyphen"/>feſtly that children be the people of God, and entirely beloved of God. But ſome will ſay, why then did not Chriſt baptize them? becauſe it is written, Jeſus himſelfe baptized not, but his Diſciples.</p>
+               <p>
+                  <note place="margin">John 4.</note>Moreover circumciſion in the old Law was miniſtred unto in<g ref="char:EOLhyphen"/>fants, therefore baptiſme ought to be miniſtred in the new law to children: for baptiſme is come in ſtead of circumciſion, as St. <hi>Paul</hi> witneſſeth,<note place="margin">Coloſ. 2.</note> ſaying to the Coloſſians, <hi>By Chriſt ye are circumciſed with a circumciſion which is without hands, when ye put off the body of ſin of the fleſh by the circumciſion of Chriſt, being buried together with him through baptiſme.</hi> Behold <hi>Paul</hi> calleth baptiſme the circumciſion of a Chri<g ref="char:EOLhyphen"/>ſtian man, which is done without hands; not that water may be miniſtred without hands, but that with hands no man ought any longer to be circumciſed, albeit the miniſtery of circumciſion doth ſtill remaine in faithfull people.</p>
+               <p>
+                  <note place="margin">Ioſh. 5.</note>To this I adde, that the ſervants of God were alwaies ready to miniſter the Sacraments to them for whom they inſtituted. As for
+<pb n="23" facs="tcp:121076:14"/>
+example, we may behold <hi>Joſhua,</hi> who moſt diligently procured the people of Iſrael to be circumciſed before they entred into the Land of promiſe; but ſince the Apoſtles were the preachers of the word, and the very faithfull ſervants of Jeſus, &amp;c, who may hereafter doubt that they baptized infants, ſince baptiſme is in place of cir<g ref="char:EOLhyphen"/>cumciſion?</p>
+               <p>
+                  <hi>Item,</hi> the Apoſtles did attemperate all their doings to the ſha<g ref="char:EOLhyphen"/>dowes and figures of the old Teſtamont; therefore it is certain that they did attemperate baptiſme according to circumciſion, and baptized children becauſe they were under the figure of baptiſme; for the people of Iſrael paſſed through the red ſea, and the bottome of the water of Jordan with their children. And although the chil<g ref="char:EOLhyphen"/>dren be not alwaies expreſſed, neither the women in the holy Scrip<g ref="char:EOLhyphen"/>tures, yet they are comprehended and underſtood in the ſame.</p>
+               <p>Alſo the Scripture evidently telleth us, that the Apoſtles baptized whole families or houſholds: but the children he comprehended in a family or houſhold, as the chiefeſt and deareſt part thereof; There<g ref="char:EOLhyphen"/>fore we may conclude, that the Apoſtles did baptize infants or chil<g ref="char:EOLhyphen"/>dren, and not onely men of lawfull age; and that the houſe or houſ<g ref="char:EOLhyphen"/>hold is taken for man, woman, and child, is manifeſt in the 17 of <hi>Geneſis,</hi> and alſo in that <hi>Joſeph</hi> doth call <hi>Jacob</hi> with all his houſe to come out of the Land of Canaan into Egypt.</p>
+               <p>Finally, I can declare out of ancient writers, that the baptiſme of infants hath continued from the Apoſtles time unto ours; neither that it was inſtituted by any Councels, neither of the Pope, nor of other men, but commended from the Scripture by the Apoſtles themſelves. <hi>Origen</hi> upon the Declaration of St. <hi>Pauls</hi> Epiſtle to the Romans, expounding the ſixt chapter, ſaith, That the Church of Chriſt received the baptiſme of infants from the very Apoſtles. St. <hi>Hierom</hi> maketh mention of the baptiſme of infants in the third booke againſt the Pelagians, and in his Epiſtle to <hi>Leta.</hi> Saint <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> reciteth for this purpoſe a place out of <hi>John</hi> Biſhop of Con<g ref="char:EOLhyphen"/>ſtantinople, in his firſt booke againſt <hi>Iulian,</hi> chap. 2. And he againe writing to St. <hi>Hierome,</hi> Epiſt. 28. ſaith, That St. <hi>Cyprian</hi> not making any new decree, but firmly obſerving the faith of the Church, judged with his fellow Biſhops, that as ſoone as one was borne, he might be lawfully baptized. The place of <hi>Cyprian</hi> is to be ſeene in his Epiſtle to <hi>Fidus.</hi>
+               </p>
+               <p>Alſo St. <hi>Augustine</hi> writing againſt the Donatiſts in the 4. booke
+<pb n="24" facs="tcp:121076:15"/>
+chap. 23. &amp; 24. ſaith, That the baptiſme of infants was not derived from the authority of man, neither of Councels, but from the Tra<g ref="char:EOLhyphen"/>dition or doctrine of the Apoſtles.</p>
+               <p>
+                  <hi>Cyril</hi> upon <hi>Leviticus</hi> chap. 8, approveth the baptiſme of children, and condemneth the iteration of baptiſme.</p>
+               <p>Theſe authorities of men I doe alledge, not to tye the baptiſme of children unto the teſtimonies of men, but to ſhew how mens teſti<g ref="char:EOLhyphen"/>monies doe agree with Gods Word, and that the verity of anti<g ref="char:EOLhyphen"/>quity is on our ſide, and that the Anabaptiſts have nothing but lies for them, and new imaginations, which ſeigne the baptiſme of chil<g ref="char:EOLhyphen"/>dren to be the Popes commandement.</p>
+               <p>After this I will anſwer to the ſumme of your arguments to the contrary. The firſt, which includeth all the reſt, is, <hi>It is written, Goe ye into all the World, and preach the glad tidings to all creatures, He that beleeveth and is baptized ſhall be ſaved, but he that beleeveth not ſhall be damned, &amp;c.</hi>
+               </p>
+               <p>To this I adde, that nothing is added to Gods Word by baptiſme of children, as ye pretend, but that is done which the ſame word doth require, for that children are accounted of Chriſt in the Goſpell among the number of ſuch as doe believe: as it appeareth by theſe words,<note place="margin">Matth. 18.</note> 
+                  <hi>He that offendeth one of theſe little babes which believe in me, it were better for him to have a mill-ſtone tied about his necke and to be caſt into the bottome of the ſea.</hi> Where plainly Chriſt calleth ſuch as be not able to confeſſe their faith, beleevers; becauſe of his meere grace he reputeth them for beleevers. And this is no wonder ſo to be taken ſince God imputeth faith for righteouſneſſe unto men of riper age, for both in men and children, righteouſneſſe, acceptation, and ſanctification is of meere grace, and by imputation, that the glory of Gods grace might be praiſed.</p>
+               <p>And that the children of faithfull parents are ſanctified, and a<g ref="char:EOLhyphen"/>mong ſuch as doe believe,<note place="margin">1 Cor. 7.</note> is apparent in the 1 <hi>Cor.</hi> 7. And whereas you doe gather by the order of the words in the ſaid Commande<g ref="char:EOLhyphen"/>ment of Chriſt, that children ought to be taught before they be baptized; and to this end you alledge many places out of the <hi>Acts,</hi> proving that ſuch as confeſſed their faith firſt were baptized after. I anſwer, that if the order of words might weigh any thing to this cauſe, we have the Scripture that maketh as well for us, for in Saint <hi>Marke</hi> we read,<note place="margin">Marke 1.</note> that <hi>John did baptize in the deſart, preaching the bap<g ref="char:EOLhyphen"/>tiſme of repentance.</hi> In the which place we ſee baptiſme go before, and peaching to follow after.</p>
+               <p>
+                  <pb n="25" facs="tcp:121076:15"/>And alſo I will declare this place of <hi>Matthew</hi> exactly conſidered,<note place="margin">Matth. 28.</note> to make for the uſe of baptiſme in children, for St. <hi>Matthew</hi> hath it written in this wiſe, <hi>All power is given me (ſaith the Lord) in Hea<g ref="char:EOLhyphen"/>ven and in earth,</hi> therefore going forth <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is, Diſciple ye, (as I may expreſſe the ſignification of the word) that is, make or gather to me Diſciples of all Nations: And following he declareth the way how they ſhould gather to him Diſciples out of all Nations, baptizing them and teaching; by baptizing and teaching ye ſhall procure a Church to me; and both theſe aptly and briefly, ſeverally he ſetteth forth, ſaying, <hi>Baptizing them in the Name of the Father, and of the Sonne, and of the holy Ghoſt, teaching them to obſerve all things what<g ref="char:EOLhyphen"/>ſoever I have commanded you.</hi> Now then Baptiſme goeth before Doctrine.</p>
+               <p>But hereby I doe not gather, that the Gentiles which never heard any thing before of God, and of the Sonne of God, and of the holy Ghoſt, ought to be baptized, neither they would permit themſelves to be baptized before they knew to what end. But this I have de<g ref="char:EOLhyphen"/>clared, to ſhew you upon how feeble foundation the Anabaptiſts be grounded; and plainly it is not true which they imagine of this Text, that the Lord did onely command ſuch to be baptized, whom the Apoſtles had firſt of all taught. Neither here verily is ſignified who onely be to be baptized: but he ſpeaketh of ſuch as he of per<g ref="char:EOLhyphen"/>fect age, and of the firſt foundations of faith, and of the Church to be planted among the Gentiles, which were as yet rude and ignorant of Religion.</p>
+               <p>Such as be of age may heare, believe, and confeſſe, that which is preached, and taught, but ſo cannot infants; therefore we may juſtly collect, that he ſpeaketh here nothing of infants or children; but for all this they be not to be excluded from baptiſme.</p>
+               <p>It is a generall rule, he that doth not labour muſt not eate, but who is ſo barbarous as might thinke hereby that children ſhould be famiſhed.</p>
+               <p>The Lord ſent his Apoſtles at the beginning of the ſetting up his true religion unto all Nations, unto ſuch as were both ignorant of God, and were out of the covenant of God, and truely ſuch perſons it behooveth not firſt to be baptized, and afterwards taught; but firſt to be taught, and afterward baptized. If at this day we ſhould goe to the Turkes to convert them to the faith of Chriſt, verily firſt we ought to teach them, and afterward baptize ſuch as would yeeld
+<pb n="26" facs="tcp:121076:16"/>
+to be the ſervants of Chriſt; Likewiſe the Lord himſelfe in times paſt did, when firſt he renewed the covenant with <hi>Abraham</hi> and or<g ref="char:EOLhyphen"/>dained circumciſion to be a ſeale of the covenant, after that <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> was circumciſed. But he when he perceived the infants alſo to pertaine to the covenant, and that circumciſion was the ſealing up of the covenant, did not onely circumciſe <hi>Iſmael</hi> his ſonne that was 13 yeers of age, but all other infants that were born in his houſe, among whom we reckon <hi>Iſaac.</hi>
+               </p>
+               <p>Even ſo, faithfull people which were converted from Heathen idolatry by the preaching of the Goſpell, and confeſſing the faith were baptized; when they underſtood their children to be counted among the people of God, and that baptiſme was the token of the people of God, they procured alſo their children to be baptized. Therefore, as it is written, <hi>Abraham circumciſed all the male children of his houſe.</hi> Semblably we read in the Acts and writings of the A<g ref="char:EOLhyphen"/>poſtles, that after the maſter of the houſe was turned to the faith, all the whole houſe was baptized. And as concerning thoſe which of old time were compelled to confeſſe their faith before they recei<g ref="char:EOLhyphen"/>ved baptiſme, which were called <hi>Catechumeni,</hi> they were ſuch as with our forefathers, came from the Gentiles to the Church, who being yet rude of faith, they did inſtruct in the principles of their beliefe, and afterward they did baptize them; but the ſame ancient fathers notwithſtanding did baptize the children of faithfull men, as I have already partly declared.</p>
+               <p>And becauſe you doe require an haſty anſwer of your Letter, of one that is but a dull writer, I am here enforced to ceaſe, particu<g ref="char:EOLhyphen"/>larly to goe through your Letter in anſwering thereto, knowing that I have fully anſwered every part thereof in that I have already written, although not in ſuch order as it had meet, and I had purpo<g ref="char:EOLhyphen"/>ſed. But foraſmuch as I underſtand that you will be no contentious man, neither in this matter, nor in any other, contrary to the judge<g ref="char:EOLhyphen"/>ment of Chriſts primitive Church, which is the body and fulneſſe of Chriſt, I deſire you in the entire of him, or rather Chriſt deſireth you by me (that your joy may be perfect whereto you are now called) to ſubmit your judgement to that Church, and to be at peace and unity with the ſame, that the coate of Chriſt, which ought to be without ſeame, but now alaſſe moſt miſerably is torne in pieces by many dangerous ſects, and damnable opinions, may appeare by you in no part to have been rent; neither that any giddy head in
+<pb n="27" facs="tcp:121076:16"/>
+theſe dog-daies, might take an example by you to diſſent from Chriſts true Church. I beſeech thee deare brother in the Goſpell, follow the ſteps of the faith of the glorious martyrs in the primi<g ref="char:EOLhyphen"/>tive Church, and of ſuch as at this day follow the ſame, decline from them neither to the right hand nor to the left; then ſhall death be it never ſo bitter, be more ſweeter then this life; then ſhall Chriſt with all the Heavenly Hieruſalem triumphantly embrace your Spirit with unſpeakable gladneſſe and exaltation, who in this earth was content to joyne your ſpirit with their ſpirits, according as it is commanded by the word, that the ſpirit of Prophets ſhould be ſubject to the Prophets. One thing aske with <hi>David</hi> ere you depart, and require the ſame, <hi>that you may dwell with a full accord in his houſe, for there is glory and worſhip;</hi> And ſo with <hi>Simeon,</hi>
+                  <note place="margin">1 Cor. 14.</note> in <hi>the Temple em<g ref="char:EOLhyphen"/>bracing Chriſt, depart in peace.</hi> To the which peace Chriſt bring both you and me, and all our loving brethren that love God in the unity of faith, by ſuch waies as ſhall pleaſe him, to his glory. Let the bit<g ref="char:EOLhyphen"/>ter paſſion of Chriſt, which he ſuffered for your ſake, and the hor<g ref="char:EOLhyphen"/>rible torments which the godly martyrs of Chriſt have endured before us; and alſo the ineſtimable reward of your life to come, which is hidden yet a little while from you with Chriſt, ſtrengthen, comfort, and encourage you, to the end of that glorious race which you are in. Amen.</p>
+               <closer>
+                  <signed>Your yoke-fellow in captivity for the verity of Chriſts Goſpell, to live and die with you in the unity of faith, <hi>JOHN PHILPOT.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="conclusion">
+               <head>I conclude,</head>
+               <p n="1">1. THat the practice of Infants hath ſufficient, and undenyable warrant in the holy Scripture.</p>
+               <p n="2">2. That if it were not the mind of God, that Infants ſhould be bap<g ref="char:EOLhyphen"/>tized, ſurely Chriſt, or his Apoſtles would have given ſome plaine direction to the contrary; eſpecially, ſeeing baptiſme comes in the roome of circumciſion, and that Infants were circumciſed.</p>
+               <p n="3">
+                  <pb n="28" facs="tcp:121076:17"/>3. That the univerſall Church of Chriſt, ever ſince the Apoſtles times, hath continued this practiſe of baptizing infants.</p>
+               <p n="4">4. That not ſo much as one Nationall Church, ſince our Saviours time, hath forborne or diſallowed childrens baptiſme.</p>
+               <p n="5">5. That the great and groſſe miſtake of the Anabaptiſts ariſeth from their not diſtinguiſhing betweene perſons borne in the cove<g ref="char:EOLhyphen"/>nant, and them that are borne out of the covenant.</p>
+               <p n="6">6. That onely private, obſcure and (for the moſt part) illiterate perſons have oppoſed this doctrine.</p>
+               <p n="7">7. That the Anabaptiſts and their doctrine, have ſo lurked in dark corners from time to time, that it is eaſie to ſee, they cannot abide the light.</p>
+               <p n="8">8. That moſt Anabaptiſts in former times, were men branded with ſome notorious infamy; and commonly poyſoned with other dangerous and hereticall opinions.</p>
+               <p n="9">9. That the Anabaptiſts grounds and arguments, againſt infants baptiſme, are all very poore, many of them very peeviſh.</p>
+               <p n="10">10. That God hath ſo bleſt this Sacrament of baptiſme, even to infants, as that millions of Saints in Heaven, moſt believers in this Kingdome, yea in the whole world, being baptized in infancy, are and ſhall be ſaved, without re-baptizing.</p>
+               <p n="11">11. That it is an extreame injuſtice, yea ſacriledge yea cruelty, to hinder infants of that grace and priviledge, which Jeſus Chriſt hath purchaſed for them.</p>
+               <p>That it is an impudent arrogancy, and higheſt preſumption to que<g ref="char:EOLhyphen"/>ſtion or contradict the Word of Chriſt, who commands that little children ſhould be ſuffered to come unto him.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
